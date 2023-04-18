@@ -12,7 +12,7 @@ public class Eliminar : MonoBehaviour
 
     void Update()
     {
-        if (transform.position.x < -20)
+        if (transform.position.x < -14)
         {
             Destroy(this.gameObject);
         }

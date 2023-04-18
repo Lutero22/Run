@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9a99e65b8a7ab494cab9ce77afd21a65
+  - enabled: 1
     path: Assets/Scenes/spacedodge.unity
     guid: 87669c8c0de009447b12ea7354e7a98b
   m_configObjects: {}

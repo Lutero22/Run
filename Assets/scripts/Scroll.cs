@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Scroll : MonoBehaviour
 {
-    private float VelocidadScroll = 8f;
+    private float VelocidadScroll = 6f;
 
     void Update()
     {
